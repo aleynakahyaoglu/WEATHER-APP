@@ -2,9 +2,12 @@
 
 
 
-CoreLocation:
-CocoaPods:
-API :
+ CoreLocation:
+ 
+ CocoaPods:
+  
+ API :
+ 
 "https://api.openweathermap.org/data/2.5/weather?appid=04dcd89f6b37a614f0d14f5b59aff614&units=metric"
 
 
